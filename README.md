@@ -8,4 +8,4 @@
 - Linux command line basics
 - Git and GitHub
 
-And yes! The list will keep changing as I move ahead! 
+🌟 And yes! The list will keep changing as I move ahead! 🌟
