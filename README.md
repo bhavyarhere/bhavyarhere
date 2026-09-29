@@ -1,5 +1,5 @@
 ## Hi, I'm Bhavya R 👋
-# M.Sc. Biochemistry, Pune, India | Computational Biology . Structural Bioinformatics . AI/ML
+### M.Sc. Biochemistry, Pune, India | Computational Biology . Structural Bioinformatics . AI/ML
 
 📔 Documenting my learning journey and projects here!
 
